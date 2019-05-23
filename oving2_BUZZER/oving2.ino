@@ -1,6 +1,5 @@
-/* Arduino tutorial - Buzzer / Piezo Speaker
-   More info and circuit: http://www.ardumotive.com/how-to-use-a-buzzer-en.html
-   Dev: Michalis Vasilakis // Date: 9/6/2015 // www.ardumotive.com */
+/*Buzzer*/
+
 #include <LiquidCrystal.h>
 const int buzzer = 9; //buzzer to arduino pin 9
 int skruFrekvens = 5;
